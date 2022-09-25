@@ -50,6 +50,7 @@ body {
   color: var(--dark-grayish-blue);
   font-family: "Montserrat", sans-serif;
   font-weight: 500;
+  line-height: 1.5rem;
 }
 
 .product-card-content > span:nth-child(1) {
